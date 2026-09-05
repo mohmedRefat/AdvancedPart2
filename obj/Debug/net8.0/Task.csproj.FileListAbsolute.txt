@@ -1,0 +1,15 @@
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/bin/Debug/net8.0/Task
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/bin/Debug/net8.0/Task.deps.json
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/bin/Debug/net8.0/Task.runtimeconfig.json
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/bin/Debug/net8.0/Task.dll
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/bin/Debug/net8.0/Task.pdb
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.AssemblyInfoInputs.cache
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.AssemblyInfo.cs
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.csproj.CoreCompileInputs.cache
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.sourcelink.json
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.dll
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/refint/Task.dll
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.pdb
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/Task.genruntimeconfig.cache
+/media/mo/01DC000201FBB540/courses/Code/AdvancedPart2/obj/Debug/net8.0/ref/Task.dll
